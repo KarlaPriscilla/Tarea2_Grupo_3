@@ -1,0 +1,10 @@
+main
+	melodia_bienvenida
+		reproducir_nota
+			Mul_32x32_U
+			Div_32x32_U
+			retardo_us_custom
+	sonido_comida
+		pitido_corto
+	sonido_fin_juego
+		pitido_largo

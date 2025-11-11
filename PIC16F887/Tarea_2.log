@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo8 -N"C:\Users\Cris\Desktop\Tarea2_Grupo3\PIC16F887\Tarea_2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Cris\Desktop\Tarea2_Grupo3\PIC16F887\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Tarea_2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Tarea_2.c
+diagnostics: 179	123	Compiled Successfully	Tarea_2.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)	Used RAM (bytes): 16 (5%)  Free RAM (bytes): 336 (95%)
+hint: 0	1144	Used ROM (program words): 750 (9%)  Free ROM (program words): 7442 (91%)	Used ROM (program words): 750 (9%)  Free ROM (program words): 7442 (91%)
+diagnostics: 0	125	Project Linked Successfully	Tarea_2.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'Tarea_2.mcppi' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 10 nov 2025, 22:20:53	Tarea_2.mcppi
