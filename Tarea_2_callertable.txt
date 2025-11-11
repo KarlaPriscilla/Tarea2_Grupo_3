@@ -1,0 +1,10 @@
+main
+	startup_melody
+		playNote
+			Mul_32x32_U
+			Div_32x32_U
+			custom_delay_us
+	waka_waka_sound
+		beep_short
+	game_over_sound
+		beep_long
