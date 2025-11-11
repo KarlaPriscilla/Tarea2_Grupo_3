@@ -84,10 +84,6 @@ bclie
 bclie_bit
 bclif
 bclif_bit
-beep_long
-beep_short
-beeppattern
-beeppattern_fixed
 bf
 bf_bit
 boot16_delay_5ms
@@ -237,8 +233,6 @@ cren
 cren_bit
 csrc
 csrc_bit
-custom_delay_ms
-custom_delay_us
 d
 d_a
 d_a_bit
@@ -306,6 +300,8 @@ eeif
 eeif_bit
 eepgd
 eepgd_bit
+emitir_pitido
+emitir_pitido_fijo
 equals_double
 f
 ferr
@@ -315,7 +311,6 @@ fsr
 fsrptr
 fvren
 fvren_bit
-game_over_sound
 gcen
 gcen_bit
 get_fosc_khz
@@ -374,6 +369,9 @@ mc1out
 mc1out_bit
 mc2out
 mc2out_bit
+melodia_bienvenida
+melodia_derrota
+melodia_victoria
 msk
 msk0
 msk0_bit
@@ -470,14 +468,14 @@ pie1
 pie2
 pir1
 pir2
-playnote
+pitido_corto
+pitido_largo
 port_to_tris_offset
 porta
 portb
 portc
 portd
 porte
-power_up_fanfare
 pr2
 prsen
 prsen_bit
@@ -621,8 +619,10 @@ re3
 re3_bit
 read_write
 read_write_bit
+reproducir_nota
 res032
-retro_startup
+retardo_ms_custom
+retardo_us_custom
 rp0
 rp0_bit
 rp1
@@ -652,6 +652,8 @@ setfun32
 setiov3224
 smp
 smp_bit
+sonido_comida
+sonido_fin_juego
 spbrg
 spbrgh
 spen
@@ -685,7 +687,6 @@ sspmsk
 sspov
 sspov_bit
 sspstat
-startup_melody
 status
 stra
 stra_bit
@@ -883,7 +884,6 @@ vcfg1
 vcfg1_bit
 vdelay_advanced_ms
 vdelay_ms
-victory_sound
 vr0
 vr0_bit
 vr1
@@ -902,7 +902,6 @@ vrr_bit
 vrss
 vrss_bit
 w
-waka_waka_sound
 wcol
 wcol_bit
 wdtcon
